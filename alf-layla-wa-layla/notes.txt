@@ -1,0 +1,5 @@
+Use this regex : \[FN#\d\d]  to get rid of [FN#xxx]
+
+\d = digit
+
+
