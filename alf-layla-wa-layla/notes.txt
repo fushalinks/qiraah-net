@@ -3,3 +3,12 @@ Use this regex : \[FN#\d\d]  to get rid of [FN#xxx]
 \d = digit
 
 
+<a name="story1">  حكاية</a>
+<a name="story2">  حكاية</a>
+<a name="story3">  حكاية</a>
+<a name="story4">  حكاية</a>
+<a name="story5">  حكاية</a>
+<a name="story6">  حكاية</a>
+<a name="story7">  حكاية</a>
+<a name="story8">  حكاية</a>
+<a name="story9">  حكاية</a>

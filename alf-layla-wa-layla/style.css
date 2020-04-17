@@ -63,3 +63,23 @@ i {
 	font-family: 'Arial';
     font-size: 1em;
 }
+
+.story-index {
+    font-family: 'Lateef';
+    font-size: 1.5em;
+    color: brown;
+    line-height: 1.2em;
+    direction: rtl;	
+    margin-bottom: 0.5em;
+
+}
+
+.story-index li {
+	list-style-type: none;
+}
+
+.story-index li a {
+	text-decoration : none;
+}
+
+
