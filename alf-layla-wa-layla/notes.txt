@@ -19,22 +19,31 @@ Use this regex : \[FN#\d\d]  to get rid of [FN#xxx]
     </div>
     <hr/>
 
+<hr/>
  <a name="story1"></a>
  <div class="arabic-subtitle"></div>
+<hr/>
  <a name="story2"></a>
  <div class="arabic-subtitle"></div>
+<hr/>
  <a name="story3"></a>
  <div class="arabic-subtitle"></div>
+<hr/>
  <a name="story4"></a>
  <div class="arabic-subtitle"></div>
+<hr/>
 <a name="story5"></a>
  <div class="arabic-subtitle"></div>
+<hr/>
 <a name="story6"></a>
  <div class="arabic-subtitle"></div>
+<hr/>
 <a name="story7"></a>
  <div class="arabic-subtitle"></div>
+<hr/>
 <a name="story8"></a>
  <div class="arabic-subtitle"></div>
+<hr/>
 <a name="story9"></a>
  <div class="arabic-subtitle"></div>
 
