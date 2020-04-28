@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(248, 246, 244);
+    background-color: rgb(255, 253, 251);
 }
 
 u {
@@ -21,8 +21,8 @@ i {
 
 
 .arabic-title {
-    font-family: 'Lateef';
-    font-size: 2em;
+    font-family: 'AmiriBold';
+    font-size: 1.6em;
     font-weight: bold;
     color: brown;
     line-height: 1.2em;
@@ -31,16 +31,16 @@ i {
 }
 
 .arabic-subtitle {
-    font-family: 'Lateef';
-    font-size: 1.6em;
+    font-family: 'AmiriRegular';
+    font-size: 1.4em;
     color: blue;
     line-height: 1.2em;
     text-align: center;
-    margin-bottom: 0.1em;
+    margin-bottom: 1em;
 }
 
 .arabic-text {
-    font-family: 'Arial';
+    font-family: 'UthmanTahaNaskh';
     line-height: 1.8em;
     font-size: 1.4em;
     direction: rtl;
@@ -74,7 +74,7 @@ i {
 }
 
 .story-index {
-    font-family: 'Lateef';
+    font-family: 'KacstBook';
     font-size: 1.5em;
     color: brown;
     line-height: 1.2em;
