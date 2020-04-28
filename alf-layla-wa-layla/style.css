@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(241, 237, 231);
+    background-color: rgb(248, 246, 244);
 }
 
 u {
@@ -36,7 +36,7 @@ i {
     color: blue;
     line-height: 1.2em;
     text-align: center;
-    margin-bottom: 0.3em;
+    margin-bottom: 0.1em;
 }
 
 .arabic-text {
