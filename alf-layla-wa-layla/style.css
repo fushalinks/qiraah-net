@@ -54,8 +54,8 @@ i {
     font-size: 1em;
     direction: rtl;
     text-align: justify;
-    font-stretch: expanded;
-    margin-right: 3em;
+    font-stretch: normal;
+    margin-right: 2em;
     margin-top: 0.5em;
     margin-bottom: 1em;
 }
