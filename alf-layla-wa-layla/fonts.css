@@ -38,3 +38,7 @@
     font-family: ScheherazadeRegular;
     src: url(./fonts/Scheherazade-Regular.ttf);
 }
+@font-face {
+    font-family: Lateef;
+    src: url(./fonts/Lateef-Regular.ttf);
+}
