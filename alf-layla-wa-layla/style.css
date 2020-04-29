@@ -47,6 +47,17 @@ i {
     font-stretch: expanded;
 }
 
+.poetry {
+    font-family: 'UthmanTahaNaskh';
+    color: rgb(71, 105, 105);
+    line-height: 1.3em;
+    font-size: 1em;
+    direction: rtl;
+    text-align: justify;
+    font-stretch: expanded;
+    margin-right: 5em;
+}
+
 .eng-text {
     font-family: "Arial";
     line-height: 1.2 em;
