@@ -46,8 +46,8 @@ div.chapter {
     }
 p {
     text-indent: 1em;
-    margin-top: 0.25em;
-    margin-bottom: 0.25em
+    margin-top: 0.15em;
+    margin-bottom: 0.15em
     }
 p.poem {
     text-indent: 0%;
@@ -125,8 +125,19 @@ p.c1 {
     margin-bottom: 0.5em;
 }
 
+.eng-poetry{
+    margin-top: 1em;
+    font-style: italic;
+    color: darkolivegreen;
+    font-size: 1em;	
+    line-height:1.1em;
+    margin-left: 3em;
+    margin-bottom: 1em;
+}
+
 .index {
 	font-family: 'Arial';
     font-size: 1em;
+
 }
 

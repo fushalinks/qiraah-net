@@ -51,8 +51,16 @@ Use this regex : \[FN#\d\d]  to get rid of [FN#xxx]
 ---
 http://www.gutenberg.org/files/34206/34206-h/34206-h.htm#Page_390
 
+The Thousand and One Nights Richard F. Burton
 
-
-https://en.wikipedia.org/wiki/List_of_stories_within_One_Thousand_and_One_Nights
-http://burtoniana.org/books/1885-Arabian%20Nights/
-http://burtoniana.org/books/1885-Arabian%20Nights/HTML/index.html
+      <div class="poetry">
+      </div>
+	  
+--- eng words to replace 
+saith => said
+thee => you
+ thou =>  you   -- remember space before and after
+ hast => has
+ hath => has
+ quoth  => said 
+ whilst  => while 
