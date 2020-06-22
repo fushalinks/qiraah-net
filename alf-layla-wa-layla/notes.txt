@@ -59,7 +59,7 @@ The Thousand and One Nights Richard F. Burton
 --- eng words to replace 
 saith => said
 thee => you
- thou =>  you   -- remember space before and after
+ you =>  you   -- remember space before and after
  hast => has
  hath => has
  quoth  => said 
