@@ -141,3 +141,11 @@ p.c1 {
 
 }
 
+.night-seperator {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-style: italic;
+    color: lightslategray;
+}
+
+
