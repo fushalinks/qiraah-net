@@ -1,29 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Maaruf the Cobbler</title>
-  <link rel="stylesheet" href="./fonts.css">
-  <link rel="stylesheet" href="./style-eng-base.css">
-  <link rel="stylesheet" href="./style-eng.css">
-</head>
-
-<body>
-  <div class="index"><a href="../alf-layla.html">Index</a></div>
-  <div class="arabic-title"><a href="057a-maaruf-al-iskaafi.html">حكاية معروف أل إسكافي</a></div>
-
   <div class="chapter" id="pgepubid00006">
     <h3><a id="chap01" />MA'ARUF THE COBBLER AND HIS WIFE</h3>
-    <p>There dwelt once upon a time in the God-guarded city of Cairo a cobbler who lived by patching old shoes. His name
-      was Ma'aruf and he had a wife called Fatimah, whom the folk had nicknamed "The Dung;"(madness caused by diabolic
-      possession) for that she was a whorish,
-      worthless wretch, scanty of shame and lot of mischief. She ruled her spouse and abused him; and he feared her
-      malice and dreaded her misdoings; for that he was a sensible man but poor-conditioned. When he earned much, he
-      spent it on her, and when he gained little, she revenged herself on his body that night, leaving him no peace and
-      making his night black as her book; for she was even as of one like her said the poet:—
+    <p>
+	There dwelt once upon a time in the God-guarded city of Cairo a cobbler who lived by patching old shoes. His name       was Ma'aruf and he had a wife called Fatimah, whom the folk had nicknamed "The Dung;"(madness caused by diabolic possession) for that she was a whorish, worthless wretch, scanty of shame and lot of mischief. She ruled her spouse and abused him; and he feared her malice and dreaded her misdoings; for that he was a sensible man but poor-conditioned. When he earned much, he spent it on her, and when he gained little, she revenged herself on his body that night, leaving him no peace and making his night black as her book; for she was even as of one like her said the poet:—
     </p>
     <div class="eng-poetry">
       <p>How manifold nights have I passed with my wife * In the saddest<br />
@@ -31,182 +9,42 @@
         Would Heaven when first I went in to her * With a cup of cold<br />
              poison I'd ta'en her life.<br /></p>
     </div>
+    <p>
+	One day she said to him, "O Ma'aruf, I wish you to bring me this night a vermicelli-cake dressed with bees'       honey." He replied, "So Allah Almighty aid me to its price, I will bring it you. By Allah, I have no dirhams today, but our Lord will make things easy." Rejoined she, And Shahrazad perceived the dawn of day and ceased to say her permitted say.
+	  </p>
+  
+    <p class="night-seperator">When it was the Nine Hundred and Ninetieth Night,
+	</p>
+    <p>	
+She resumed, It has reached me, O auspicious King, that Ma'aruf the Cobbler said to his spouse, "By Allah, I have no dirhams today, but our Lord will make things easy to me!" She rejoined, "I don't understand these words; look you come not to me save with the vermicelli and bees' honey; else will I make your night (black) as your fortune when you fell into my hand, when you married me." He said, "Allah is bountiful!" and going out with grief scattering itself from his body, prayed the dawn-prayer and opened his shop. After which he sat till noon, but no work came to him and his fear of his wife redoubled. Then he arose and went out perplexed as to how he should do in the matter of the vermicelli-cake, seeing he had not even the wherewithal to buy bread.  
+	</p>
+	  
+	  <p>
+Presently he came to the shop of the Kunafah-seller and stood before it, while his eyes brimmed with tears. The pastry-cook glanced at him and said, "O Master Ma'aruf, why do you weep? Tell me what has befallen you." So he acquainted him with his case, saying, "My wife would have me bring her a Kunafah; but I have sat in my shop till past mid-day and have not gained even the price of bread; wherefore I am in fear of her." The cook laughed and said, "No harm shall come to you. How many pounds wilt you have?" "Five pounds," answered Ma'aruf. So the man weighed him out five pounds of vermicelli-cake and said to him, "I have clarified butter, but no bees' honey. Here is drip-honey, however, which is better than bees' honey; and what harm will there be, if it be with drip-honey?" Ma'aruf was ashamed to object, because the pastry-cook was to have patience with him for the price, and said, "Give it me with drip-honey." So he fried a vermicelli-cake for him with butter and drenched it with drip-honey, till it was fit to present to Kings. Then he asked him, "do you want bread and cheese?"; and Ma'aruf answered, "Yes." So he gave him four and half dirhams worth of bread and one of cheese, and the vermicelli was ten nusfs. Then said he, "Know, O Ma'aruf, that you owest me fifteen nusfs; so go to you wife and make merry and take this nusf for the Hammam; and you shalt have credit for a day or two or three till Allah provide you with you daily bread. And straiten not your wife, for I will have patience with you till such time as you shall have dirhams to spare." So Ma'aruf took the vermicelli-cake and bread and cheese and went away, with a heart at ease, blessing the pastry-cook and saying, "Extolled be you perfection, O my Lord! How bountiful are You!" 
+	  </p>
+	  
+	  <p> 
+When he came home, his wife inquired of him, "have you brought the vermicelli-cake?"; and, replying "Yes," he set it before her. She looked at it and seeing that it was dressed with cane-honey, said to him, "Did I not bid you bring it with bees' honey? And you do contrary my wish and have it dressed with cane-honey?" He excused himself to her, saying, "I bought it not save on credit;" but said she, "This talk is idle; I will not eat Kunafah save with bees' honey." And she was angry and threw it in his face, saying, "Get up, you pimp, and bring me other than this !" Then she dealt him a slap on the cheek and knocked out one of his teeth. The blood ran down upon his breast and for stress of anger he smote her on the head a single blow and a slight; whereupon she clutched his beard and fell to shouting out and saying, "Help, O Moslems!" So the neighbours came in and freed his beard from her grip; then they reproved and reproached her, saying, "We are all content to eat Kunafah with cane-honey. Why, then, do you oppress this poor man thus? Verily, this is disgraceful in you!" And they went on to soothe her till they made peace between her and him. But, when the folk were gone, she swore that she would not eat of the vermicelli, and Ma'aruf, burning with hunger, said in himself, "She swore that she will not eat; so I will eat." Then he ate, and when she saw him eating, she said, "Insha Allah, may the eating of it be poison to destroy the far one's body." said he, "It shall not be at you bidding," and went on eating, laughing and saying, "you swore that you would not eat of this; but Allah is bountiful, and tomorrow night, and the Lord decree, I will bring you Kunafah dressed with bees' honey, and you shalt eat it alone." And he applied himself to appeasing her, while she called down curses upon him; and she ceased not to abuse him and revile him with gross abuse till the morning, when she bared her forearm to beat him. said he, "Give me time and I will bring you other vermicelli-cake." 
+	  </p>
+	  
+	  <p>
+Then he went out to the mosque and prayed, after which he betook himself to his shop and opening it, sat down; but hardly had he done this when up came two men from the Kazi's court and said to him, "Get up, speak with the Kazi, for your wife has complained of you to him and her favour is thus and thus." He recognised her by their description; and saying, "May Allah Almighty torment her!" walked with them till he came to the Kazi's presence, where he found Fatimah standing with her arm bound up and her face-veil smeared with blood; and she was weeping and wiping away her tears. said the Kazi, "Hey man, has you no fear of Allah the Most High? Why has you beaten this good woman and broken her forearm and knocked out her tooth and entreated her thus?" And said Ma'aruf, "If I beat her or put out her tooth, sentence me to what you will; but in truth the case was thus and thus and the neighbours made peace between me and her." And he told him the story from first to last. Now this Kazi was a benevolent man; so he brought out to him a quarter dinar, saying, "O man, take this and get her Kunafah with bees' honey and make peace, you and she." said Ma'aruf, "Give it to her." So she took it and the Kazi made peace between them, saying, "O wife, obey your husband; and you, O man, deal kindly with her." Then they left the court, reconciled at the Kazi's hands, and the woman went one way, while her husband returned by another way to his shop and sat there, when, behold, the men came up to him and said, "Give us our fee." said he, "The Kazi took not of me anything; on the contrary, he gave me a quarter dinar." But said they "'This is no concern of ours whether the Kazi took of you or gave to you, and if you give us not our fee, we will exact it in despite of you." And they fell to dragging him about the market; so he sold his tools and gave them half a dinar, whereupon they let him go and went away, while he put his hand to his cheek and sat sorrowful, for that he had no tools wherewith to work. 
+	  </p>
+	  
+	  <p>	  
+While he sitting, up came two ill-favoured fellows and said to him, "Come, O man, and speak with the Kazi; for you wife has complained of you to him." Said he, "He made peace between us just now." But said they, "We come from another Kazi, and you wife has complained of you to our Kazi." So he arose and went with them to their Kazi, calling on Allah for aid against her; and when he saw her, he said to her, "Did we not make peace, good woman?" Whereupon she cried, "There is no peace between me and you." Accordingly he came forward and told the Kazi his story, adding, "And indeed the Kazi Such-an-one made peace between us this very hour." Whereupon the Kazi said to her, "O whore, since you two have made peace with each other, why did you come to me complaining?" said she, "He beat me after that;" but said the Kazi, "Make peace each with other, and beat her not again, and she will cross you no more". So he went back to his shop, opened it and sat down, as he were a drunken man for excess of the worries which befell him. While he was still sitting, behold, a man came up to him and said, "O Ma'aruf, rise and hide yourself, for you wife has complained of you to the High Court and Abú Tabak is after you." So he shut his shop and fled towards the Gate of Victory. He had five nusfs of silver left of the price of the lasts and tools; and therewith he bought four worth of bread and one of cheese, as he fled from her. Now it was the winter season and the hour of mid-afternoon prayer; so, when he came out among the rubbish-mounds the rain descended upon him, like water from the mouths of water-skins, and his clothes were drenched. He therefore entered the 'Adiliyah, where he saw a ruined place and therein a deserted cell without a door; and in it he took refuge and found shelter from the rain. The tears streamed from his eyelids, and he fell to complaining of what had betided him and saying, "Where shall I flee from this whore? I beseech you, O Lord, to vouchsafe me one who shall conduct me to a far country, where she shall not know the way to me!" 
+</p>
+<p>
 
-
-    <p>One day she said to him, "O Ma'aruf, I wish you to bring me this night a vermicelli-cake dressed with bees'
-      honey." He replied, "So Allah Almighty aid me to its price, I will bring it you. By Allah, I have no dirhams
-      today, but our Lord will make things easy." Rejoined she, And Shahrazad perceived the dawn of day and ceased to
-      say her permitted say.</p>
-    <p class="night-seperator">When it was the Nine Hundred and Ninetieth Night,</p>
-    <p>She resumed, It has reached me, O auspicious King, that Ma'aruf the Cobbler said to his spouse, "By Allah, I have
-      no dirhams today, but our Lord will make things easy to me!" She rejoined, "I don't understand these words; look
-      you come not to me save with the vermicelli and bees' honey; else will I make your night (black) as your fortune
-      when you fell into my hand, when you married me." He said, "Allah is bountiful!" and going out with grief
-      scattering itself from his body, prayed the dawn-prayer and opened his shop. After which he sat till noon, but no
-      work came to him and his fear of his wife redoubled. Then he arose and went out perplexed as to how he should do
-      in the matter of the vermicelli-cake, seeing he had not even the wherewithal to buy bread. Presently he came to
-      the shop of the Kunafah-seller and stood before it, while his eyes brimmed with tears. The pastry-cook glanced at
-      him and said, "O Master Ma'aruf, why do you weep? Tell me what has befallen you." So he acquainted him with his
-      case, saying, "My wife would have me bring her a Kunafah; but I have sat in my shop till past mid-day and have not
-      gained even the price of bread; wherefore I am in fear of her." The cook laughed and said, "No harm shall come to
-      you. How many pounds wilt you have?" "Five pounds," answered Ma'aruf. So the man weighed him out five pounds of
-      vermicelli-cake and said to him, "I have clarified butter, but no bees' honey. Here is drip-honey, however, which
-      is better than bees' honey; and what harm will there be, if it be with drip-honey?" Ma'aruf was ashamed to object,
-      because the pastry-cook was to have patience with him for the price, and said, "Give it me with drip-honey." So he
-      fried a vermicelli-cake for him with butter and drenched it with drip-honey, till it was fit to present to Kings.
-      Then he asked him, "do you want bread and cheese?"; and Ma'aruf answered, "Yes." So he gave him four and half
-      dirhams worth of bread and one of cheese, and the vermicelli was ten nusfs. Then said he, "Know, O Ma'aruf, that
-      you owest me fifteen nusfs; so go to you wife and make merry and take this nusf for the Hammam; and you shalt have
-      credit for a day or two or three till Allah provide you with you daily bread. And straiten not your wife, for I
-      will have patience with you till such time as you shall have dirhams to spare." So Ma'aruf took the
-      vermicelli-cake and bread and cheese and went away, with a heart at ease, blessing the pastry-cook and saying,
-      "Extolled be you perfection, O my Lord! How bountiful are You!" When he came home, his wife inquired of him, "have
-      you brought the vermicelli-cake?"; and, replying "Yes," he set it before her. She looked at it and seeing that it
-      was dressed with cane-honey, said to him, "Did I not bid you bring it with bees' honey? And you do contrary my
-      wish and have it dressed with cane-honey?" He excused himself to her, saying, "I bought it not save on credit;"
-      but said she, "This talk is idle; I will not eat Kunafah save with bees' honey." And she was angry and threw it in
-      his face, saying, "Begone, you pimp, and bring me other than this !" Then she dealt him a
-      buffet on the cheek and knocked out one of his teeth. The blood ran down upon his breast and for stress of anger
-      he smote her on the head a single blow and a slight; whereupon she clutched his beard and fell to shouting out and
-      saying, "Help, O Moslems!" So the neighbours came in and freed his beard from her grip; then they reproved and
-      reproached her, saying, "We are all content to eat Kunafah with cane-honey. Why, then, wilt you oppress this poor
-      man thus? Verily, this is disgraceful in you!" And they went on to soothe her till they made peace between her
-      and him. But, when the folk were gone, she swored that she would not eat of the vermicelli, and Ma'aruf, burning
-      with hunger, said in himself, "She swore that she will not eat; so I will e'en eat." Then he ate, and when she
-      saw him eating, she said, "Insha Allah, may the eating of it be poison to destroy the far one's body." said he,
-      "It
-      shall not be at you bidding," and went on eating, laughing and saying, "you swore that you would not eat of
-      this; but Allah is bountiful, and to-morrow night, an the Lord decree, I will bring you Kunafah dressed with
-      bees' honey, and you shalt eat it alone." And he applied himself to appeasing her, while she called down curses
-      upon him; and she ceased not to rail at him and revile him with gross abuse till the morning, when she bared her
-      forearm to beat him. said he, "Give me time and I will bring you other vermicelli-cake." Then he went out to the
-      mosque and prayed, after which he betook himself to his shop and opening it, sat down; but hardly had he done this
-      when up came two runners from the Kazi's court and said to him, "Up with you, speak with the Kazi, for you wife
-      hath complained of you to him and her favour is thus and thus." He recognised her by their description; and
-      saying, "May Allah Almighty torment her!" walked with them till he came to the Kazi's presence, where he found
-      Fatimah standing with her arm bound up and her face-veil besmeared with blood; and she was weeping and wiping away
-      her tears. said the Kazi, "Ho man, has you no fear of Allah the Most High? Why has you beaten this good woman
-      and broken her forearm and knocked out her tooth and entreated her thus?" And said Ma'aruf, "If I beat her or put
-      out her tooth, sentence me to what you wilt; but in truth the case was thus and thus and the neighbours made
-      peace between me and her." And he told him the story from first to last. Now this Kazi was a benevolent man; so he
-      brought out to him a quarter dinar, saying, "O man, take this and get her Kunafah with bees' honey and do ye make
-      peace, you and she." said Ma'aruf, "Give it to her." So she took it and the Kazi made peace between them,
-      saying, "O wife, obey you husband; and thou, O man, deal kindly with her." Then they left the court, reconciled at
-      the Kazi's hands, and the woman went one way, while her husband returned by another way to his shop and sat
-      there, when, behold, the runners came up to him and said, "Give us our fee." said he, "The Kazi took not of me
-      aught; on the contrary, he gave me a quarter dinar." But said they "'Tis no concern of ours whether the Kazi took
-      of you or gave to you, and if you give us not our fee, we will exact it in despite of you." And they fell to
-      dragging him about the market; so he sold his tools and gave them half a dinar, whereupon they let him go and went
-      away, while he put his hand to his cheek and sat sorrowful, for that he had no tools wherewith to work.
-      Presently, up came two ill-favoured fellows and said to him, "Come, O man, and speak with the Kazi; for you wife
-      hath complained of you to him." Said he, "He made peace between us just now." But said they, "We come from
-      another Kazi, and you wife hath complained of you to our Kazi." So he arose and went with them to their Kazi,
-      calling on Allah for aid against her; and when he saw her, he said to her, "Did we not make peace, good woman?"
-      Whereupon she cried, "There abides no peace between me and you." Accordingly he came forward and told the Kazi
-      his story, adding, "And indeed the Kazi Such-an-one made peace between us this very hour." Whereupon the Kazi said
-      to her, "O strumpet, since ye two have made peace with each other, why did you come to me complaining?" said she,
-      "He beat me after that;" but said the Kazi, "Make peace each with other, and beat her not again, and she will
-      cross you no more." So they made peace and the Kazi said to Ma'aruf, "Give the runners their fee." So he gave
-      them their fee and going back to his shop, opened it and sat down, as he were a drunken man for excess of the
-      chagrin which befell him. Presently, while he was still sitting, behold, a man came up to him and said, "O
-      Ma'aruf,
-      rise and hide thyself, for you wife hath complained of you to the High Court and Abú Tabak is after you." So he
-      shut his shop and fled towards the Gate of Victory. He had five nusfs of silver left of the price of the lasts and
-      gear; and therewith he bought four worth of bread and one of cheese, as he fled from her. Now it was the winter
-      season and the hour of mid-afternoon prayer; so, when he came out among the rubbish-mounds the rain descended upon
-      him, like water from the mouths of water-skins, and his clothes were drenched. He therefore entered the 'Adiliyah,
-      where he saw a ruined place and therein a deserted cell without a door; and in it he took refuge and found shelter
-      from the rain. The tears streamed from his eyelids, and he fell to complaining of what had betided him and saying,
-      "Whither shall I flee from this whore? I beseech you, O Lord, to vouchsafe me one who shall conduct me to a far
-      country, where she shall not know the way to me!" Now while he sat weeping, behold, the wall clave and there came
-      forth to him therefrom one of tall stature, whose aspect caused his body-pile to bristle and his flesh to creep,
-      and said to him, "O man, what aileth you that disturbed me this night? These two hundred years have I dwelt
-      here and have never seen any enter this place and do as you dost. Tell me what you wishest and I will accomplish
-      you need, as ruth for you hath got hold upon my heart." said Ma'aruf, "Who and what art thou?"; and said he, "I
-      am the Haunter of this place." So Ma'aruf told him all that had befallen him with his wife and he said, "Wilt thou
-      have me convey you to a country, where you wife shall know no way to you?" "Yes," said Ma'aruf; and the other,
-      "Then mount my back." So he mounted on his back and he flew with him from after supper-tide till daybreak, when he
-      set him down on the top of a high mountain—And Shahrazad perceived the dawn of day and ceased saying her permitted
-      say.</p>
+Now while he sat weeping, behold, the wall clave and there came forth to him therefrom one of tall stature, whose aspect caused his body to bristle and his flesh to creep, and said to him, "O man, what is with you that disturbed me this night? These two hundred years have I dwelt here and have never seen any enter this place and do as you did. Tell me what you wish and I will accomplish you need, as ruth for you have got hold upon my heart." said Ma'aruf, "Who and what art thou?"; and said he, "I am the Haunter of this place." So Ma'aruf told him all that had befallen him with his wife and he said, "Wilt thou have me convey you to a country, where you wife shall know no way to you?" "Yes," said Ma'aruf; and the other, "Then mount my back." So he mounted on his back and he flew with him from after supper-tide till daybreak, when he set him down on the top of a high mountain—And Shahrazad perceived the dawn of day and ceased saying her permitted say.</p>
     <p class="night-seperator">When it was the Nine Hundred and Ninety-first Night,</p>
-    <p>She said, It hath reached me, O auspicious King, that the Marid having taken up Ma'aruf the Cobbler, flew off
-      with him and set him down upon a high mountain and said to him, "O mortal, descend this mountain and you wilt see
-      the gate of a city. Enter it, for therein you wife cannot come at you." He then left him and went his way, while
-      Ma'aruf abode in amazement and perplexity till the sun rose, when he said to himself, "I will up with me and go
-      down into the city: indeed there is no profit in my abiding upon this highland." So he descended to the
-      mountain-foot and saw a city girt by towering walls, full of lofty palaces and gold-adorned buildings which was a
-      delight to beholders. He entered in at the gate and found it a place such as lightened the grieving heart; but, as
-      he walked through the streets the townsfolk stared at him as a curiosity and gathered about him, marvelling at his
-      dress, for it was unlike theirs. Presently, one of them said to him, "O man, art you a stranger?" "Yes." "What
-      countryman art thou?" "I am from the city of Cairo the Auspicious." "And when didst you leave Cairo?" "I left it
-      yesterday, at the hour of afternoon-prayer." Whereupon the man laughed at him and cried out, saying, "Come look, O
-      folk, at this man and hear what he said!" said they, "What did he say?"; and said the townsman, "He
-      pretended that he came from Cairo and left it yesterday at the hour of afternoon-prayer!" At this they all
-      laughed and gathering round Ma'aruf, said to him, "O man, art you mad to talk thus? How canst you pretend that
-      you leftest Cairo at mid-afternoon yesterday and found thyself this morning here, when the truth is that
-      between our city and Cairo lieth a full year's journey?" said he, "None is mad but you. As for me, I speak sooth,
-      for here is bread which I brought with me from Cairo, and see, 'tis yet new." Then he showed them the bread and
-      they stared at it, for it was unlike their country bread. So the crowd increased about him and they said to one
-      another, "This is Cairo bread: look at it;" and he became a gazing-stock in the city and some believed him, while
-      others gave him the lie and made mock of him. while this was going on, behold, up came a merchant riding on a
-      she-mule and followed by two black slaves, and brake a way through the people, saying, "O folk, are ye not ashamed
-      to mob this stranger and make mock of him and scoff at him?" And he went on to rate them, till he drave them away
-      from Ma'aruf, and none could make him any answer. Then he said to the stranger, "Come, O my brother, no harm shall
-      betide you from these folk. Verily they have no shame." So he took him and carrying him to a spacious and
-      richly-adorned house, seated him in a speak-room fit for a King, while he gave an order to his slaves, who opened
-      a chest and brought out to him a dress such as might be worn by a merchant worth a thousand. He clad him therewith
-      and Ma'aruf, being a seemly man, became as he were consul of the merchants. Then his host called for food and they
-      set before them a tray of all manner exquisite viands. The twain ate and drank and the merchant said to Ma'aruf,
-      "O my brother, what is you name?" "My name is Ma'aruf and I am a cobbler by trade and patch old shoes." "What
-      countryman art thou?" "I am from Cairo." "What quarter?" "do you know Cairo?" "I am of its children. I come
-      from the Red Street." "And whom do you know in the Red Street?" "I know such an one and such an one," answered
-      Ma'aruf and named several people to him. said the other, "Knowest you Shaykh Ahmad the druggist?" "He was my
-      next neighbour, wall to wall." "Is he well?" "Yes." "How many sons hath he?" "Three, Mustafà, Mohammed and Ali."
-      "And what hath Allah done with them?" "As for Mustafà, he is well and he is a learned man, a professor: Mohammed
-      is a druggist and opened him a shop beside that of his father, after he had married, and his wife hath borne him a
-      son named Hasan." "Allah gladden you with good news!" said the merchant; and Ma'aruf continued, "As for Ali, he
-      was my friend, when we were boys, and we always played together, I and he. We used to go in the guise of the
-      children of the Nazarenes and enter the church and steal the books of the Christians and sell them and buy food
-      with the price. It chanced once that the Nazarenes caught us with a book; whereupon they complained of us to our
-      folk and said to Ali's father: An you hinder not you son from troubling us, we will complain of you to the King.
-      So he appeased them and gave Ali a thrashing; wherefore he ran away none knew whither and he hath now been absent
-      twenty years and no man hath brought news of him." said the host, "I am that very Ali, son of Shaykh Ahmad the
-      druggist, and you art my playmate Ma'aruf." So they saluted each other and after the salam Ali said, "Tell me
-      why, O Ma'aruf, you camest from Cairo to this city." Then he told him all that had befallen him of ill-doing with
-      his wife Fatimah the Dung and said, "So, when her annoy waxed on me, I fled from her towards the Gate of Victory
-      and went forth the city. Presently, the rain fell heavy on me; so I entered a ruined cell in the Adiliyah and sat
-      there, weeping; whereupon there came forth to me the Haunter of the place, which was an Ifrit of the Jinn, and
-      questioned me. I acquainted him with my case and he took me on his back and flew with me all night between heaven
-      and earth, till he set me down on yonder mountain and gave me to know of this city. So I came down from the
-      mountain and entered the city, when people crowded about me and questioned me. I told them that I had left Cairo
-      yesterday, but they believed me not, and presently you came up and driving the folk away from me, carried me
-      this house. Such, then, is the cause of my quitting Cairo; and thou, what object brought you hither?" said Ali,
-      "The giddiness of folly turned my head when I was seven years old, from which time I wandered from land to land
-      and city to city, till I came to this city, the name whereof is Ikhtiyán al-Khatan. I found its people an
-      hospitable folk and a kindly, compassionate for the poor man and selling to him on credit and believing all he
-      said. So said I to them:—I am a merchant and have preceded my packs and I need a place wherein to bestow my
-      baggage. And they believed me and assigned me a lodging. Then said I to them:—Is there any of you will lend me a
-      thousand dinars, till my loads arrive, when I will repay it to him; for I am in want of certain things before my
-      goods come? They gave me what I asked and I went to the merchants' bazar, where, seeing goods, I bought them and
-      sold them next day at a profit of fifty gold pieces and bought others. And I consorted with the folk and entreated
-      them liberally, so that they loved me, and I continued to sell and buy, till I grew rich. Know, O my brother, that
-      the proverb said, The world is show and trickery: and the land where none wotteth you, there do whatso liketh
-      you. you too, an you say to all who ask you, I'm a cobbler by trade and poor withal, and I fled from my wife
-      and left Cairo yesterday, they will not believe you and you wilt be a laughing-stock among them as long as thou
-      abide in the city; while, an you tell them, An Ifrit brought me hither, they will take fright at you and none
-      will come near you; for they will say, This man is possessed of an Ifrit and harm will betide whoso approacheth
-      him. And such public report will be dishonouring both to you and to me, because they ken I come from Cairo."
-      Ma'aruf asked:—"How then shall I do?"; and Ali answered, "I will tell you how you shalt do, Inshallah! To-morrow
-      I will give you a thousand dinars and a she-mule to ride and a black slave, who shall walk before you and guide
-      you to the gate of the merchants' bazar; and do you go into them. I will be there sitting amongst them, and when
-      I see you, I will rise to you and salute you with the salam and kiss you hand and make a great man of you.
-      Whenever I ask you of any kind of stuff, saying, has you brought with you aught of such a kind? do thou
-      answer, "Plenty." And if they question me of you, I will praise you and magnify you in their eyes and say to
-      them, Get him a store-house and a shop. I also will give you out for a man of great wealth and generosity; and if
-      a beggar come to you, bestow upon him what you mayst; so will they put faith in what I say and believe in thy
-      greatness and generosity and love you. Then will I invite you to my house and invite all the merchants on thy
-      account and bring together you and them, so that all may know you and you know them,"—And Shahrazad perceived
-      the dawn of day and ceased to say her permitted say.</p>
+    <p>
+	She said, It hath reached me, O auspicious King, that the Marid having taken up Ma'aruf the Cobbler, flew off with him and set him down upon a high mountain and said to him, "O mortal, descend this mountain and you will see the gate of a city. Enter it, for therein you wife cannot come at you." He then left him and went his way, while Ma'aruf abode in amazement and perplexity till the sun rose, when he said to himself, "I will get up and go down into the city: indeed there is no profit in my abiding upon this highland." So he descended to the mountain-foot and saw a city girt by towering walls, full of lofty palaces and gold-adorned buildings which was a delight to beholders. He entered in at the gate and found it a place such as lightened the grieving heart; but, as he walked through the streets the townsfolk stared at him as a curiosity and gathered about him, marvelling at his dress, for it was unlike theirs. Presently, one of them said to him, "O man, art you a stranger?" "Yes." "What countryman are you?" "I am from the city of Cairo the Auspicious." "And when did you leave Cairo?" "I left it yesterday, at the hour of afternoon-prayer." Whereupon the man laughed at him and cried out, saying, "Come look, O folk, at this man and hear what he said!" said they, "What did he say?"; and said the townsman, "He pretended that he came from Cairo and left it yesterday at the hour of afternoon-prayer!" At this they all laughed and gathering round Ma'aruf, said to him, "O man, are you mad to talk thus? How can you pretend that you left Cairo at mid-afternoon yesterday and found yourself this morning here, when the truth is that between our city and Cairo lies a full year's journey?" said he, "None is mad but you. As for me, I speak truth, for here is bread which I brought with me from Cairo, and see, 'this is yet new." Then he showed them the bread and they stared at it, for it was unlike their country bread. So the crowd increased about him and they said to one another, "This is Cairo bread: look at it;" and he became a gazing-stock in the city and some believed him, while others gave him the lie and made mock of him. 
+	  
+	  </p>
+	  <p>
+
+while this was going on, behold, up came a merchant riding on a she-mule and followed by two black slaves, and brake a way through the people, saying, "O folk, are ye not ashamed to mob this stranger and make mock of him and scoff at him?" And he went on to rate them, till he drave them away from Ma'aruf, and none could make him any answer. Then he said to the stranger, "Come, O my brother, no harm shall betide you from these folk. Verily they have no shame." So he took him and carrying him to a spacious and richly-adorned house, seated him in a speak-room fit for a King, while he gave an order to his slaves, who opened a chest and brought out to him a dress such as might be worn by a merchant worth a thousand. He clad him therewith and Ma'aruf, being a seemly man, became as he were consul of the merchants. Then his host called for food and they set before them a tray of all manner exquisite viands. The twain ate and drank and the merchant said to Ma'aruf, "O my brother, what is you name?" "My name is Ma'aruf and I am a cobbler by trade and patch old shoes." "What countryman art thou?" "I am from Cairo." "What quarter?" "do you know Cairo?" "I am of its children. I come from the Red Street." "And whom do you know in the Red Street?" 	 "I know such an one and such an one," answered Ma'aruf and named several people to him. said the other, "Knowest you Shaykh Ahmad the druggist?" "He was my next neighbour, wall to wall." "Is he well?" "Yes." "How many sons hath he?" "Three, Mustafà, Mohammed and Ali." "And what hath Allah done with them?" "As for Mustafà, he is well and he is a learned man, a professor: Mohammed is a druggist and opened him a shop beside that of his father, after he had married, and his wife hath borne him a son named Hasan." "Allah gladden you with good news!" said the merchant; and Ma'aruf continued, "As for Ali, he was my friend, when we were boys, and we always played together, I and he. We used to go in the guise of the children of the Nazarenes and enter the church and steal the books of the Christians and sell them and buy food with the price. It chanced once that the Nazarenes caught us with a book; whereupon they complained of us to our folk and said to Ali's father: An you hinder not you son from troubling us, we will complain of you to the King. So he appeased them and gave Ali a thrashing; wherefore he ran away none knew whither and he hath now been absent twenty years and no man hath brought news of him." said the host, "I am that very Ali, son of Shaykh Ahmad the druggist, and you art my playmate Ma'aruf." So they saluted each other and after the salam Ali said, "Tell me why, O Ma'aruf, you camest from Cairo to this city." Then he told him all that had befallen him of ill-doing with his wife Fatimah the Dung and said, "So, when her annoy waxed on me, I fled from her towards the Gate of Victory and went forth the city. Presently, the rain fell heavy on me; so I entered a ruined cell in the Adiliyah and sat there, weeping; whereupon there came forth to me the Haunter of the place, which was an Ifrit of the Jinn, and questioned me. I acquainted him with my case and he took me on his back and flew with me all night between heaven and earth, till he set me down on yonder mountain and gave me to know of this city. So I came down from the mountain and entered the city, when people crowded about me and questioned me. I told them that I had left Cairo yesterday, but they believed me not, and presently you came up and driving the folk away from me, carried me this house. Such, then, is the cause of my quitting Cairo; and thou, what object brought you hither?" said Ali, "The giddiness of folly turned my head when I was seven years old, from which time I wandered from land to land and city to city, till I came to this city, the name whereof is Ikhtiyán al-Khatan. I found its people an hospitable folk and a kindly, compassionate for the poor man and selling to him on credit and believing all he said. So said I to them:—I am a merchant and have preceded my packs and I need a place wherein to bestow my baggage. And they believed me and assigned me a lodging. Then said I to them:—Is there any of you will lend me a thousand dinars, till my loads arrive, when I will repay it to him; for I am in want of certain things before my goods come? They gave me what I asked and I went to the merchants' bazar, where, seeing goods, I bought them and sold them next day at a profit of fifty gold pieces and bought others. And I consorted with the folk and entreated them liberally, so that they loved me, and I continued to sell and buy, till I grew rich. Know, O my brother, that the proverb said, The world is show and trickery: and the land where none wotteth you, there do whatso liketh you. you too, an you say to all who ask you, I'm a cobbler by trade and poor withal, and I fled from my wife and left Cairo yesterday, they will not believe you and you wilt be a laughing-stock among them as long as thou abide in the city; while, an you tell them, An Ifrit brought me hither, they will take fright at you and none will come near you; for they will say, This man is possessed of an Ifrit and harm will betide whoso approacheth him. And such public report will be dishonouring both to you and to me, because they ken I come from Cairo." Ma'aruf asked:—"How then shall I do?"; and Ali answered, "I will tell you how you shalt do, Inshallah! To-morrow I will give you a thousand dinars and a she-mule to ride and a black slave, who shall walk before you and guide you to the gate of the merchants' bazar; and do you go into them. I will be there sitting amongst them, and when I see you, I will rise to you and salute you with the salam and kiss you hand and make a great man of you. Whenever I ask you of any kind of stuff, saying, has you brought with you aught of such a kind? do thou answer, "Plenty." And if they question me of you, I will praise you and magnify you in their eyes and say to them, Get him a store-house and a shop. I also will give you out for a man of great wealth and generosity; and if a beggar come to you, bestow upon him what you mayst; so will they put faith in what I say and believe in thy greatness and generosity and love you. Then will I invite you to my house and invite all the merchants on thy account and bring together you and them, so that all may know you and you know them,"—And Shahrazad perceived the dawn of day and ceased to say her permitted say. 	  	  </p>
     <p class="night-seperator">When it was the Nine Hundred and Ninety-second Night,</p>
     <p>She continued, It hath reached me, O auspicious King, that the merchant Ali said to Ma'aruf, "I will invite you
       to my house and invite all the merchants on you account and bring together you and them, so that all may know
@@ -1157,7 +995,4 @@
       hand are the Keys of the Seen and the Unseen!"</p>
   </div>
 
-
-</body>
-
-</html>
+ 	 

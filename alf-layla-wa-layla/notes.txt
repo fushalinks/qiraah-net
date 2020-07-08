@@ -62,5 +62,17 @@ thee => you
  you =>  you   -- remember space before and after
  hast => has
  hath => has
- quoth  => said 
+  quoth  => said 
  whilst  => while 
+ 
+
+<p>When it was the Nine
+<p class="night-seperator">When it was the Nine
+ 
+ 
+ <p> وأدرك شهرزاد الصباح فسكتت عن الكلام المباح.</p>
+ <p class="night-seperator"> وأدرك شهرزاد الصباح فسكتت عن الكلام المباح.</p>
+ 
+ 
+ <p>When it was the 
+<p class="night-seperator">When it was the 
