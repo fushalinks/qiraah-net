@@ -33,18 +33,19 @@ u {
 }
 
 .arabic-title {
+    padding-top: 1em;
+    padding-left: 1em;
     font-family: 'AvenirBook';
     font-size: 1.2em;
     font-weight: bold;
     color: brown;
     line-height: 1.2em;
-    font-stretch: expanded;
 }
 
 .arabic-text {
     font-family: 'Arial';
-    line-height: 1.8em;
-    font-size: 1.1em;
+    line-height: 1.9em;
+    font-size: 1.2em;
     font-stretch: extra-expanded;
 }
 
