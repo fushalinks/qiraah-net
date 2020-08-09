@@ -42,10 +42,10 @@ u {
 }
 
 .arabic-text {
-    font-family: 'AvenirBook';
+    font-family: 'Arial';
     line-height: 1.8em;
-    font-size: 1em;
-    font-stretch: expanded;
+    font-size: 1.1em;
+    font-stretch: extra-expanded;
 }
 
 .eng-text {
