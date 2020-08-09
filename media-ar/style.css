@@ -33,17 +33,19 @@ u {
 }
 
 .arabic-title {
-    font-family: 'Lateef';
-    font-size: 1.6em;
+    font-family: 'AvenirBook';
+    font-size: 1.2em;
     font-weight: bold;
     color: brown;
     line-height: 1.2em;
+    font-stretch: expanded;
 }
 
 .arabic-text {
-    font-family: 'Lateef';
-    line-height: 1.4em;
-    font-size: 1.8em;
+    font-family: 'KacstBook';
+    line-height: 1.6em;
+    font-size: 1.4em;
+    font-stretch: expanded;
 }
 
 .eng-text {
