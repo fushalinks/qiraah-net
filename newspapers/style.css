@@ -1,6 +1,5 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: whitesmoke;
 }
 
 u {
@@ -19,7 +18,7 @@ i {
 }
 
 .arabic-title {
-    font-family: 'Lateef';
+    font-family: 'Arial';
     font-size: 2em;
     font-weight: bold;
     color: brown;
@@ -59,7 +58,7 @@ i {
 
 .eng-text-small {
     font-family: Georgia;
-    line-height: 1em;
+    line-height: 1.5em;
     font-size: 0.8em;
     color: rgb(92, 92, 92);
     direction: ltr;
@@ -68,7 +67,8 @@ i {
 }
 
 .eng-title {
-    font-size: 0.9em;
+    font-size: 1.2em;
+    font-weight: bold;    
     text-align: center;
     margin-bottom: 1em;
 }
